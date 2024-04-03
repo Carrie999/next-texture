@@ -1,0 +1,31 @@
+.main {
+  padding: 0rem;
+  min-height: 100vh;
+  text-align: center;
+
+}
+
+.mainTexture {
+  width: 84vw;
+  height: 84vh;
+  overflow: hidden;
+  border-radius: 20px;
+  margin: 0 auto;
+  margin-top: 40px;
+  box-sizing: content-box;
+}
+
+.controlColor {
+  position: relative;
+  margin-top: 40px;
+  display: inline-block;
+  z-index: 100;
+}
+
+
+
+.selectColor {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+}
