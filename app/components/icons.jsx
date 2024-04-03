@@ -92,7 +92,7 @@ export const MoonFilledIcon = ({
 	width,
 	height,
 	...props
-}: IconSvgProps) => (
+}) => (
 	<svg
 		aria-hidden="true"
 		focusable="false"
@@ -136,7 +136,7 @@ export const HeartFilledIcon = ({
 	width,
 	height,
 	...props
-}: IconSvgProps) => (
+}) => (
 	<svg
 		aria-hidden="true"
 		focusable="false"
